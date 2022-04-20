@@ -1,4 +1,4 @@
 policy "sensitive" {
-  source            = "./mock-tfun.sentinel"
+  source            = "./sensitive.sentinel"
   enforcement_level = "hard-mandatory"
 }
